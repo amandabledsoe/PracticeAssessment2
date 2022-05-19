@@ -1,0 +1,15 @@
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\bin\Debug\net6.0\MockAssessment2.exe
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\bin\Debug\net6.0\MockAssessment2.deps.json
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\bin\Debug\net6.0\MockAssessment2.runtimeconfig.json
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\bin\Debug\net6.0\MockAssessment2.dll
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\bin\Debug\net6.0\MockAssessment2.pdb
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.csproj.AssemblyReference.cache
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.AssemblyInfoInputs.cache
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.AssemblyInfo.cs
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.csproj.CoreCompileInputs.cache
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.dll
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\refint\MockAssessment2.dll
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.pdb
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\MockAssessment2.genruntimeconfig.cache
+C:\Repositories\ASSESSMENTS\practice-assessment-2-amandabledsoe\MockAssessment2\MockAssessment2\obj\Debug\net6.0\ref\MockAssessment2.dll
